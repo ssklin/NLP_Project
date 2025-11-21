@@ -1,0 +1,473 @@
+{
+    "Restaurant": "Himalayan House",
+    "Total_Reviews": 90,
+    "Aspect_Analysis": {
+        "Taste": {
+            "Positive": [
+                {
+                    "Keyword": "Delicious food",
+                    "Context": "Delicious food, peaceful ambiance. Price per person $20–30 Food: 5 Service: 5 Noise level Quiet, easy to talk Wait time No wait Seating type Indoor dining area\n\nPrice per person: $20–30\nFood: 5\nService: 5\nNoise level: Quiet, easy to talk\nWait time: No wait\nSeating type: Indoor dining area"
+                },
+                {
+                    "Keyword": "Exquisite menu",
+                    "Context": "Exquisite menu without words here the tasting is like a delicacy of the gods Service Dine in Meal type Lunch Price per person $20–30 Food: 5 Service: 5 Atmosphere: 5 Special events Themed nights\n\nService: Dine in\nMeal type: Lunch\nPrice per person: $20–30\nFood: 5\nService: 5\nAtmosphere: 5\nSpecial events: Themed nights"
+                },
+                {
+                    "Keyword": "Great food",
+                    "Context": "Great staff! Great food! Lovely atmosphere! Looking forward to the next time I am in the area so I can eat here again. Food: 5 Service: 5 Atmosphere: 5\n\nFood: 5\nService: 5\nAtmosphere: 5"
+                },
+                {
+                    "Keyword": "Delicious food",
+                    "Context": "Delicious authentic Indian food here in LA. I definitely recommend if you’re in the area looking for some delicious flavors ! This food is so tasty, enjoyed the chicken masala medium with a garlic naan wich was so good . Side of rice as well. Strawberry smoothy which was great to cool down with. When in the area stop by and check it out ! Food: 5 Service: 5 Atmosphere: 5\n\nFood: 5\nService: 5\nAtmosphere: 5"
+                },
+                {
+                    "Keyword": "authentic food",
+                    "Context": "Delicious authentic Indian food here in LA. I definitely recommend if you’re in the area looking for some delicious flavors ! This food is so tasty, enjoyed the chicken masala medium with a garlic naan wich was so good . Side of rice as well. Strawberry smoothy which was great to cool down with. When in the area stop by and check it out ! Food: 5 Service: 5 Atmosphere: 5\n\nFood: 5\nService: 5\nAtmosphere: 5"
+                },
+                {
+                    "Keyword": "Indian food",
+                    "Context": "Delicious authentic Indian food here in LA. I definitely recommend if you’re in the area looking for some delicious flavors ! This food is so tasty, enjoyed the chicken masala medium with a garlic naan wich was so good . Side of rice as well. Strawberry smoothy which was great to cool down with. When in the area stop by and check it out ! Food: 5 Service: 5 Atmosphere: 5\n\nFood: 5\nService: 5\nAtmosphere: 5"
+                },
+                {
+                    "Keyword": "delicious flavors",
+                    "Context": "Delicious authentic Indian food here in LA. I definitely recommend if you’re in the area looking for some delicious flavors ! This food is so tasty, enjoyed the chicken masala medium with a garlic naan wich was so good . Side of rice as well. Strawberry smoothy which was great to cool down with. When in the area stop by and check it out ! Food: 5 Service: 5 Atmosphere: 5\n\nFood: 5\nService: 5\nAtmosphere: 5"
+                },
+                {
+                    "Keyword": "food is tasty",
+                    "Context": "Delicious authentic Indian food here in LA. I definitely recommend if you’re in the area looking for some delicious flavors ! This food is so tasty, enjoyed the chicken masala medium with a garlic naan wich was so good . Side of rice as well. Strawberry smoothy which was great to cool down with. When in the area stop by and check it out ! Food: 5 Service: 5 Atmosphere: 5\n\nFood: 5\nService: 5\nAtmosphere: 5"
+                },
+                {
+                    "Keyword": "Food was excellent",
+                    "Context": "Food was excellent but service could be better Meal type Dinner Price per person $20–30 Food: 5 Service: 2 Atmosphere: 4 Noise level Quiet, easy to talk Group size 3-4 people\n\nMeal type: Dinner\nPrice per person: $20–30\nFood: 5\nService: 2\nAtmosphere: 4\nNoise level: Quiet, easy to talk\nGroup size: 3-4 people"
+                },
+                {
+                    "Keyword": "Vegetarian menu",
+                    "Context": "Discovered this fine establishment on google maps  while looking for directions.   Ordered the veggie noodle soup and it was amazing. I’ve never had Himalayan noodles before. The man was fresh and garlicky and went perfectly with the soup. Very charming owners and cute little restaurant. I’ll be back. A lot. . Service Dine in Price per person $10–20 Food: 5 Service: 5 Atmosphere: 5 Recommended dishes Garlic Naan Wait time No wait Recommendation for vegetarians Highly recommend Vegetarian offerings Large vegetarian selection, Vegetarian menu or section Vegetarian options Delicious! Parking space Plenty of parking Kid-friendliness Yes to kids just order no spice\n\nService: Dine in\nPrice per person: $10–20\nFood: 5\nService: 5\nAtmosphere: 5\nRecommended dishes: Garlic Naan\nWait time: No wait\nRecommendation for vegetarians: Highly recommend\nVegetarian offerings: Large vegetarian selection, Vegetarian menu or section\nVegetarian options: Delicious!\nParking space: Plenty of parking\nKid-friendliness: Yes to kids just order no spice"
+                },
+                {
+                    "Keyword": "Vegetarian menu",
+                    "Context": "Discovered this fine establishment on google maps  while looking for directions.   Ordered the veggie noodle soup and it was amazing. I’ve never had Himalayan noodles before. The man was fresh and garlicky and went perfectly with the soup. Very charming owners and cute little restaurant. I’ll be back. A lot. . Service Dine in Price per person $10–20 Food: 5 Service: 5 Atmosphere: 5 Recommended dishes Garlic Naan Wait time No wait Recommendation for vegetarians Highly recommend Vegetarian offerings Large vegetarian selection, Vegetarian menu or section Vegetarian options Delicious! Parking space Plenty of parking Kid-friendliness Yes to kids just order no spice\n\nService: Dine in\nPrice per person: $10–20\nFood: 5\nService: 5\nAtmosphere: 5\nRecommended dishes: Garlic Naan\nWait time: No wait\nRecommendation for vegetarians: Highly recommend\nVegetarian offerings: Large vegetarian selection, Vegetarian menu or section\nVegetarian options: Delicious!\nParking space: Plenty of parking\nKid-friendliness: Yes to kids just order no spice"
+                },
+                {
+                    "Keyword": "authentic flavors",
+                    "Context": "Hands down the best Nepali & Indian restaurant in LA!\nI absolutely loved the authentic flavors and delicious food. The warmth and hospitality of the owners made the experience even better-it truly felt like home. Highly recommended for anyone craving real Nepali and Indian taste.\n\nThank you so much! Price per person $20–30 Food: 5 Service: 5 Atmosphere: 5 Recommended dishes Garlic Naan, Great Service, Chicken Biryani, Chicken Thali Group size Suitable for all group sizes Wait time No wait Recommendation for vegetarians Highly recommend Parking space Plenty of parking Parking options Free parking lot Kid-friendliness Yes! Wheelchair accessibility Yes!\n\nPrice per person: $20–30\nFood: 5\nService: 5\nAtmosphere: 5\nRecommended dishes: Garlic Naan, Great Service, Chicken Biryani, Chicken Thali\nGroup size: Suitable for all group sizes\nWait time: No wait\nRecommendation for vegetarians: Highly recommend\nParking space: Plenty of parking\nParking options: Free parking lot\nKid-friendliness: Yes!\nWheelchair accessibility: Yes!"
+                },
+                {
+                    "Keyword": "delicious food",
+                    "Context": "Hands down the best Nepali & Indian restaurant in LA!\nI absolutely loved the authentic flavors and delicious food. The warmth and hospitality of the owners made the experience even better-it truly felt like home. Highly recommended for anyone craving real Nepali and Indian taste.\n\nThank you so much! Price per person $20–30 Food: 5 Service: 5 Atmosphere: 5 Recommended dishes Garlic Naan, Great Service, Chicken Biryani, Chicken Thali Group size Suitable for all group sizes Wait time No wait Recommendation for vegetarians Highly recommend Parking space Plenty of parking Parking options Free parking lot Kid-friendliness Yes! Wheelchair accessibility Yes!\n\nPrice per person: $20–30\nFood: 5\nService: 5\nAtmosphere: 5\nRecommended dishes: Garlic Naan, Great Service, Chicken Biryani, Chicken Thali\nGroup size: Suitable for all group sizes\nWait time: No wait\nRecommendation for vegetarians: Highly recommend\nParking space: Plenty of parking\nParking options: Free parking lot\nKid-friendliness: Yes!\nWheelchair accessibility: Yes!"
+                },
+                {
+                    "Keyword": "real taste",
+                    "Context": "Hands down the best Nepali & Indian restaurant in LA!\nI absolutely loved the authentic flavors and delicious food. The warmth and hospitality of the owners made the experience even better-it truly felt like home. Highly recommended for anyone craving real Nepali and Indian taste.\n\nThank you so much! Price per person $20–30 Food: 5 Service: 5 Atmosphere: 5 Recommended dishes Garlic Naan, Great Service, Chicken Biryani, Chicken Thali Group size Suitable for all group sizes Wait time No wait Recommendation for vegetarians Highly recommend Parking space Plenty of parking Parking options Free parking lot Kid-friendliness Yes! Wheelchair accessibility Yes!\n\nPrice per person: $20–30\nFood: 5\nService: 5\nAtmosphere: 5\nRecommended dishes: Garlic Naan, Great Service, Chicken Biryani, Chicken Thali\nGroup size: Suitable for all group sizes\nWait time: No wait\nRecommendation for vegetarians: Highly recommend\nParking space: Plenty of parking\nParking options: Free parking lot\nKid-friendliness: Yes!\nWheelchair accessibility: Yes!"
+                },
+                {
+                    "Keyword": "Good food",
+                    "Context": "Good food, Good people Food: 5 Service: 5 Atmosphere: 4\n\nFood: 5\nService: 5\nAtmosphere: 4"
+                },
+                {
+                    "Keyword": "tasty portion",
+                    "Context": "Loved not only the food but also the service! I had to come early & wait for my family, they were very accommodating & made sure I am comfortable. Food (everything I ordered) was tasty, good portion (one item fills you up), reasonably price, prepared pretty quick (within 15 min, meal was served for all 5 people). They went above & beyond to fill our need & served every request with grace. They even offered complimentary rice & salad. Very appreciative of the chef as well as the server. Service Dine in Meal type Dinner Price per person $20–30 Food: 5 Service: 5 Atmosphere: 5 Reservation Reservations not required Vegetarian offerings Vegetarian menu or section Parking space Plenty of parking Parking options Free parking lot Kid-friendliness Kid friendly\n\nService: Dine in\nMeal type: Dinner\nPrice per person: $20–30\nFood: 5\nService: 5\nAtmosphere: 5\nReservation: Reservations not required\nVegetarian offerings: Vegetarian menu or section\nParking space: Plenty of parking\nParking options: Free parking lot\nKid-friendliness: Kid friendly"
+                },
+                {
+                    "Keyword": "good portion",
+                    "Context": "Loved not only the food but also the service! I had to come early & wait for my family, they were very accommodating & made sure I am comfortable. Food (everything I ordered) was tasty, good portion (one item fills you up), reasonably price, prepared pretty quick (within 15 min, meal was served for all 5 people). They went above & beyond to fill our need & served every request with grace. They even offered complimentary rice & salad. Very appreciative of the chef as well as the server. Service Dine in Meal type Dinner Price per person $20–30 Food: 5 Service: 5 Atmosphere: 5 Reservation Reservations not required Vegetarian offerings Vegetarian menu or section Parking space Plenty of parking Parking options Free parking lot Kid-friendliness Kid friendly\n\nService: Dine in\nMeal type: Dinner\nPrice per person: $20–30\nFood: 5\nService: 5\nAtmosphere: 5\nReservation: Reservations not required\nVegetarian offerings: Vegetarian menu or section\nParking space: Plenty of parking\nParking options: Free parking lot\nKid-friendliness: Kid friendly"
+                },
+                {
+                    "Keyword": "Vegetarian menu",
+                    "Context": "Loved not only the food but also the service! I had to come early & wait for my family, they were very accommodating & made sure I am comfortable. Food (everything I ordered) was tasty, good portion (one item fills you up), reasonably price, prepared pretty quick (within 15 min, meal was served for all 5 people). They went above & beyond to fill our need & served every request with grace. They even offered complimentary rice & salad. Very appreciative of the chef as well as the server. Service Dine in Meal type Dinner Price per person $20–30 Food: 5 Service: 5 Atmosphere: 5 Reservation Reservations not required Vegetarian offerings Vegetarian menu or section Parking space Plenty of parking Parking options Free parking lot Kid-friendliness Kid friendly\n\nService: Dine in\nMeal type: Dinner\nPrice per person: $20–30\nFood: 5\nService: 5\nAtmosphere: 5\nReservation: Reservations not required\nVegetarian offerings: Vegetarian menu or section\nParking space: Plenty of parking\nParking options: Free parking lot\nKid-friendliness: Kid friendly"
+                },
+                {
+                    "Keyword": "good food",
+                    "Context": "good food Food: 5 Service: 5 Atmosphere: 5\n\nFood: 5\nService: 5\nAtmosphere: 5"
+                },
+                {
+                    "Keyword": "Vegetarian menu",
+                    "Context": "Service: Take out\nPrice per person: $20–30\nFood: 5\nService: 5\nAtmosphere: 4\nNoise level: Quiet, easy to talk\nSpecial events: No special event\nRecommendation for vegetarians: Somewhat recommend\nVegetarian offerings: Vegetarian menu or section\nParking space: Plenty of parking\nParking options: Free parking lot"
+                },
+                {
+                    "Keyword": "wholesome food",
+                    "Context": "Really wholesome authentic Nepali and Indian food . Service Dine in Food: 5 Service: 5 Atmosphere: 5 Noise level Quiet, easy to talk Recommendation for vegetarians Highly recommend\n\nService: Dine in\nFood: 5\nService: 5\nAtmosphere: 5\nNoise level: Quiet, easy to talk\nRecommendation for vegetarians: Highly recommend"
+                },
+                {
+                    "Keyword": "authentic food",
+                    "Context": "Really wholesome authentic Nepali and Indian food . Service Dine in Food: 5 Service: 5 Atmosphere: 5 Noise level Quiet, easy to talk Recommendation for vegetarians Highly recommend\n\nService: Dine in\nFood: 5\nService: 5\nAtmosphere: 5\nNoise level: Quiet, easy to talk\nRecommendation for vegetarians: Highly recommend"
+                },
+                {
+                    "Keyword": "Good food",
+                    "Context": "Good food! Service Dine in Food: 5 Service: 5 Atmosphere: 5\n\nService: Dine in\nFood: 5\nService: 5\nAtmosphere: 5"
+                },
+                {
+                    "Keyword": "awesome Food",
+                    "Context": "This place was really nice we ordered chicken thali it was awesome Food: 5 Service: 5 Atmosphere: 5\n\nFood: 5\nService: 5\nAtmosphere: 5"
+                },
+                {
+                    "Keyword": "diverse menu",
+                    "Context": "This restaurant is great, with a diverse menu and delicious dishes that suit every taste. The food is carefully prepared and flavorful. The staff is friendly and polite, always ready to assist.\nPerfect for meals with family and friends. I'm very satisfied and will definitely return. Service Dine in Meal type Breakfast Price per person $10–20 Food: 5 Service: 5 Atmosphere: 4\n\nService: Dine in\nMeal type: Breakfast\nPrice per person: $10–20\nFood: 5\nService: 5\nAtmosphere: 4"
+                },
+                {
+                    "Keyword": "delicious dishes",
+                    "Context": "This restaurant is great, with a diverse menu and delicious dishes that suit every taste. The food is carefully prepared and flavorful. The staff is friendly and polite, always ready to assist.\nPerfect for meals with family and friends. I'm very satisfied and will definitely return. Service Dine in Meal type Breakfast Price per person $10–20 Food: 5 Service: 5 Atmosphere: 4\n\nService: Dine in\nMeal type: Breakfast\nPrice per person: $10–20\nFood: 5\nService: 5\nAtmosphere: 4"
+                },
+                {
+                    "Keyword": "food is prepared",
+                    "Context": "This restaurant is great, with a diverse menu and delicious dishes that suit every taste. The food is carefully prepared and flavorful. The staff is friendly and polite, always ready to assist.\nPerfect for meals with family and friends. I'm very satisfied and will definitely return. Service Dine in Meal type Breakfast Price per person $10–20 Food: 5 Service: 5 Atmosphere: 4\n\nService: Dine in\nMeal type: Breakfast\nPrice per person: $10–20\nFood: 5\nService: 5\nAtmosphere: 4"
+                },
+                {
+                    "Keyword": "food was neat",
+                    "Context": "I came across it yesterday for the first time, and overall the food was so neat and delicious. The dumplings you recommended were also delicious. The kindness of the staff made me really happy. It's hard to find good restaurants in LA, but I'll go here often. I'll be there next week as well. Thank you so much staff! Food: 5 Service: 5 Atmosphere: 5\n\nFood: 5\nService: 5\nAtmosphere: 5"
+                },
+                {
+                    "Keyword": "Portions are small",
+                    "Context": "We are always up for a good plate of Nepalese momos, and this place did not disappoint. Portions are small, and there are 6 momos per plate, so you may need a few plates if you're hungry! The chicken noodles were pretty good as well. We went on a Saturday afternoon and most of the tables were empty. Would definitely visit again if we happen to be in the area. Food: 4 Service: 5 Atmosphere: 4\n\nFood: 4\nService: 5\nAtmosphere: 4"
+                },
+                {
+                    "Keyword": "food is great",
+                    "Context": "The food is great! Someone had picked up my order by accident, but the owners and staff were great and quickly made me a new one. Really enjoyed their garlic naan and chicken biryani. Service Take out Food: 5 Service: 5 Atmosphere: 5\n\nService: Take out\nFood: 5\nService: 5\nAtmosphere: 5"
+                },
+                {
+                    "Keyword": "Great flavors",
+                    "Context": "Great flavors and vegetarian choices Service Dine in Meal type Dinner Price per person $30–50 Recommended dishes Garlic Naan Recommendation for vegetarians Highly recommend Vegetarian offerings Clearly labeled vegetarian dishes\n\nService: Dine in\nMeal type: Dinner\nPrice per person: $30–50\nRecommended dishes: Garlic Naan\nRecommendation for vegetarians: Highly recommend\nVegetarian offerings: Clearly labeled vegetarian dishes"
+                },
+                {
+                    "Keyword": "vegetarian dishes",
+                    "Context": "Great flavors and vegetarian choices Service Dine in Meal type Dinner Price per person $30–50 Recommended dishes Garlic Naan Recommendation for vegetarians Highly recommend Vegetarian offerings Clearly labeled vegetarian dishes\n\nService: Dine in\nMeal type: Dinner\nPrice per person: $30–50\nRecommended dishes: Garlic Naan\nRecommendation for vegetarians: Highly recommend\nVegetarian offerings: Clearly labeled vegetarian dishes"
+                },
+                {
+                    "Keyword": "vegetarian dishes",
+                    "Context": "Great flavors and vegetarian choices Service Dine in Meal type Dinner Price per person $30–50 Recommended dishes Garlic Naan Recommendation for vegetarians Highly recommend Vegetarian offerings Clearly labeled vegetarian dishes\n\nService: Dine in\nMeal type: Dinner\nPrice per person: $30–50\nRecommended dishes: Garlic Naan\nRecommendation for vegetarians: Highly recommend\nVegetarian offerings: Clearly labeled vegetarian dishes"
+                },
+                {
+                    "Keyword": "good food",
+                    "Context": "Very nice people. Family owned restaurant. Very good food too. Really recommend you guys come here. Food: 5 Service: 5\n\nFood: 5\nService: 5"
+                },
+                {
+                    "Keyword": "best food",
+                    "Context": "AN AMAZING HOLE IN THE WALL!!!! one of best indian food that i have ever had, this is a must go if you are in the area… better that the michelin star indian restaurant in santa barbara by a LONGGGG shot, if i could give more than 5 stars i would Service Dine in Meal type Dinner Price per person $10–20 Food: 5 Service: 5 Atmosphere: 5\n\nService: Dine in\nMeal type: Dinner\nPrice per person: $10–20\nFood: 5\nService: 5\nAtmosphere: 5"
+                },
+                {
+                    "Keyword": "indian food",
+                    "Context": "AN AMAZING HOLE IN THE WALL!!!! one of best indian food that i have ever had, this is a must go if you are in the area… better that the michelin star indian restaurant in santa barbara by a LONGGGG shot, if i could give more than 5 stars i would Service Dine in Meal type Dinner Price per person $10–20 Food: 5 Service: 5 Atmosphere: 5\n\nService: Dine in\nMeal type: Dinner\nPrice per person: $10–20\nFood: 5\nService: 5\nAtmosphere: 5"
+                },
+                {
+                    "Keyword": "much dishes",
+                    "Context": "Service: Dine in\nMeal type: Lunch\nPrice per person: $50–100\nFood: 5\nService: 5\nAtmosphere: 5\nRecommended dishes\nDietary restrictions: Not quite sure\nParking space: Plenty of parking\nParking options: Free parking lot\nParking: Not too much"
+                },
+                {
+                    "Keyword": "delicious food",
+                    "Context": "Great service with delicious food..Server  Abishek  is really nice..and done excellent service.. We love the way of serving food ..with alot of parking space too .. Service Dine in Food: 5 Service: 5 Atmosphere: 5\n\nService: Dine in\nFood: 5\nService: 5\nAtmosphere: 5"
+                },
+                {
+                    "Keyword": "Great food",
+                    "Context": "Great, tasty Indian/Nepalese food. We ordered the chicken fried rice, chicken tikka masala, and garlic naan - they were all scrumptious and hit the spot. I asked for medium level spiciness and they nailed it. The garlic naan is made in house, from scratch and it was the most delicious garlic naan (or any naan for that matter) I've ever had. The service is great too. I wish they'd get more customers because they deserve it. Service Dine in Meal type Lunch Price per person $20–30 Food: 5 Service: 5 Atmosphere: 5 Recommended dishes Garlic Naan, Chicken Tikka\n\nService: Dine in\nMeal type: Lunch\nPrice per person: $20–30\nFood: 5\nService: 5\nAtmosphere: 5\nRecommended dishes: Garlic Naan, Chicken Tikka"
+                },
+                {
+                    "Keyword": "tasty food",
+                    "Context": "Great, tasty Indian/Nepalese food. We ordered the chicken fried rice, chicken tikka masala, and garlic naan - they were all scrumptious and hit the spot. I asked for medium level spiciness and they nailed it. The garlic naan is made in house, from scratch and it was the most delicious garlic naan (or any naan for that matter) I've ever had. The service is great too. I wish they'd get more customers because they deserve it. Service Dine in Meal type Lunch Price per person $20–30 Food: 5 Service: 5 Atmosphere: 5 Recommended dishes Garlic Naan, Chicken Tikka\n\nService: Dine in\nMeal type: Lunch\nPrice per person: $20–30\nFood: 5\nService: 5\nAtmosphere: 5\nRecommended dishes: Garlic Naan, Chicken Tikka"
+                },
+                {
+                    "Keyword": "Nepalese food",
+                    "Context": "Great, tasty Indian/Nepalese food. We ordered the chicken fried rice, chicken tikka masala, and garlic naan - they were all scrumptious and hit the spot. I asked for medium level spiciness and they nailed it. The garlic naan is made in house, from scratch and it was the most delicious garlic naan (or any naan for that matter) I've ever had. The service is great too. I wish they'd get more customers because they deserve it. Service Dine in Meal type Lunch Price per person $20–30 Food: 5 Service: 5 Atmosphere: 5 Recommended dishes Garlic Naan, Chicken Tikka\n\nService: Dine in\nMeal type: Lunch\nPrice per person: $20–30\nFood: 5\nService: 5\nAtmosphere: 5\nRecommended dishes: Garlic Naan, Chicken Tikka"
+                },
+                {
+                    "Keyword": "few food",
+                    "Context": "Very clean and peaceful. I only tried few food, but enjoyed it because I love Indian food."
+                },
+                {
+                    "Keyword": "Indian food",
+                    "Context": "Very clean and peaceful. I only tried few food, but enjoyed it because I love Indian food."
+                },
+                {
+                    "Keyword": "Lovely food",
+                    "Context": "Lovely hot and delicious food,\nOrdered mutton/lamb curry and chicken Karachi lip smacking tasty\nNaan was also very fresh tasty and had the tandoor charcoal taste\n\nLastly the washroom was also clean and smelled great Service Dine in Meal type Lunch Price per person $10–20 Food: 5 Service: 5 Atmosphere: 5 Recommended dishes Cinrata Ko Masu Shrimp Curry, Orange Chicken\n\nService: Dine in\nMeal type: Lunch\nPrice per person: $10–20\nFood: 5\nService: 5\nAtmosphere: 5\nRecommended dishes: Cinrata Ko Masu Shrimp Curry, Orange Chicken"
+                },
+                {
+                    "Keyword": "hot food",
+                    "Context": "Lovely hot and delicious food,\nOrdered mutton/lamb curry and chicken Karachi lip smacking tasty\nNaan was also very fresh tasty and had the tandoor charcoal taste\n\nLastly the washroom was also clean and smelled great Service Dine in Meal type Lunch Price per person $10–20 Food: 5 Service: 5 Atmosphere: 5 Recommended dishes Cinrata Ko Masu Shrimp Curry, Orange Chicken\n\nService: Dine in\nMeal type: Lunch\nPrice per person: $10–20\nFood: 5\nService: 5\nAtmosphere: 5\nRecommended dishes: Cinrata Ko Masu Shrimp Curry, Orange Chicken"
+                },
+                {
+                    "Keyword": "fresh tasty",
+                    "Context": "Lovely hot and delicious food,\nOrdered mutton/lamb curry and chicken Karachi lip smacking tasty\nNaan was also very fresh tasty and had the tandoor charcoal taste\n\nLastly the washroom was also clean and smelled great Service Dine in Meal type Lunch Price per person $10–20 Food: 5 Service: 5 Atmosphere: 5 Recommended dishes Cinrata Ko Masu Shrimp Curry, Orange Chicken\n\nService: Dine in\nMeal type: Lunch\nPrice per person: $10–20\nFood: 5\nService: 5\nAtmosphere: 5\nRecommended dishes: Cinrata Ko Masu Shrimp Curry, Orange Chicken"
+                },
+                {
+                    "Keyword": "Super tasty",
+                    "Context": "Super tasty, especially after a day on the slopes🤩 Service Dine in Meal type Dinner Price per person $20–30 Food: 5 Service: 5 Atmosphere: 5\n\nService: Dine in\nMeal type: Dinner\nPrice per person: $20–30\nFood: 5\nService: 5\nAtmosphere: 5"
+                },
+                {
+                    "Keyword": "amazing meal",
+                    "Context": "Forget anything you know about food and come to this place RIGHT NOW. I just had an amazing meal for lunch. Nepali pasta, simply unique. Never had anything like it. You must not like food if you don’t try this.\n\nThe place is also very welcoming and the staff are friendly.\n\nJust a great experience overall! Food: 5 Service: 5 Atmosphere: 5\n\nFood: 5\nService: 5\nAtmosphere: 5"
+                },
+                {
+                    "Keyword": "Vegetarian menu",
+                    "Context": "Service: Take out\nMeal type: Dinner\nPrice per person: $10–20\nFood: 5\nService: 5\nAtmosphere: 5\nRecommended dishes\nRecommendation for vegetarians: Highly recommend\nVegetarian offerings: Vegetarian menu or section\nParking space: Plenty of parking"
+                },
+                {
+                    "Keyword": "food was tasty",
+                    "Context": "The food was so tasty and owners were so friendly and hospitable. Love the ambience and everything ❤ Meal type Lunch Food: 5 Service: 5 Atmosphere: 5 Recommended dishes\n\nMeal type: Lunch\nFood: 5\nService: 5\nAtmosphere: 5\nRecommended dishes"
+                },
+                {
+                    "Keyword": "Excellent taste",
+                    "Context": "Have taken chicken tikka masala thali no spicy and still curry. Excellent taste! Butter-creamy with fresh chicken breast pieces. Rice was cooked also excellent. I’d consider my portion as small then I expected, but the server gave me extra rice as a compliment. Will get back for trying something else. Service Dine in Meal type Lunch Price per person $10–20 Food: 5 Service: 5 Atmosphere: 4 Recommended dishes Vegetable Thali Parking Parking during the weekend might be busy.\n\nService: Dine in\nMeal type: Lunch\nPrice per person: $10–20\nFood: 5\nService: 5\nAtmosphere: 4\nRecommended dishes: Vegetable Thali\nParking: Parking during the weekend might be busy."
+                },
+                {
+                    "Keyword": "dishes be busy",
+                    "Context": "Have taken chicken tikka masala thali no spicy and still curry. Excellent taste! Butter-creamy with fresh chicken breast pieces. Rice was cooked also excellent. I’d consider my portion as small then I expected, but the server gave me extra rice as a compliment. Will get back for trying something else. Service Dine in Meal type Lunch Price per person $10–20 Food: 5 Service: 5 Atmosphere: 4 Recommended dishes Vegetable Thali Parking Parking during the weekend might be busy.\n\nService: Dine in\nMeal type: Lunch\nPrice per person: $10–20\nFood: 5\nService: 5\nAtmosphere: 4\nRecommended dishes: Vegetable Thali\nParking: Parking during the weekend might be busy."
+                },
+                {
+                    "Keyword": "best food",
+                    "Context": "The best Indian food and love the garlic nann bread and fried dumplings 🥟 I highly recommend this place if you want something different. So yummy 😋 Service Dine in Meal type Dinner Price per person $20–30 Food: 5 Service: 5 Atmosphere: 5 Recommended dishes Vegetable Thali, Garlic Naan Parking space Somewhat difficult to find parking Parking options Free parking lot\n\nService: Dine in\nMeal type: Dinner\nPrice per person: $20–30\nFood: 5\nService: 5\nAtmosphere: 5\nRecommended dishes: Vegetable Thali, Garlic Naan\nParking space: Somewhat difficult to find parking\nParking options: Free parking lot"
+                },
+                {
+                    "Keyword": "Indian food",
+                    "Context": "The best Indian food and love the garlic nann bread and fried dumplings 🥟 I highly recommend this place if you want something different. So yummy 😋 Service Dine in Meal type Dinner Price per person $20–30 Food: 5 Service: 5 Atmosphere: 5 Recommended dishes Vegetable Thali, Garlic Naan Parking space Somewhat difficult to find parking Parking options Free parking lot\n\nService: Dine in\nMeal type: Dinner\nPrice per person: $20–30\nFood: 5\nService: 5\nAtmosphere: 5\nRecommended dishes: Vegetable Thali, Garlic Naan\nParking space: Somewhat difficult to find parking\nParking options: Free parking lot"
+                }
+            ],
+            "Negative": [
+                {
+                    "Keyword": "food was good",
+                    "Context": "The food was good and fresh, but the service was disappointing. When we asked for a box to pack our leftovers, we were only given aluminum foil instead. This made us feel disrespected, and we had to leave the food behind. Service Dine in Meal type Dinner Price per person $50–100 Food: 5 Service: 1 Atmosphere: 3\n\nService: Dine in\nMeal type: Dinner\nPrice per person: $50–100\nFood: 5\nService: 1\nAtmosphere: 3"
+                },
+                {
+                    "Keyword": "good meal",
+                    "Context": "Disappointing Experience at Himalayan House\n\nFood Quality\n- Ordered Chicken Karahi, but it had a bad smell, making it unpleasant to eat.\n- Requested green chili, but was given only a tiny quarter-sized piece after a long wait.\n\nCustomer Service\n- The employee's attitude was unprofessional, creating a poor impression.\n- Slow service and lack of attention to customer requests.\n\nGuest Experience\n- Brought my guest expecting a good meal, but one of them experienced vomiting afterward.\n- Felt mistreated, especially as someone from India/Nepal, making the visit uncomfortable.\n\nFinal Verdict\nBased on this visit, I **do not recommend** this restaurant, especially for South Asian guests, as the overall experience was disappointing. Service Dine in Price per person $30–50 Food: 1 Service: 1 Atmosphere: 1 Wait time 10-30 min\n\nService: Dine in\nPrice per person: $30–50\nFood: 1\nService: 1\nAtmosphere: 1\nWait time: 10-30 min"
+                },
+                {
+                    "Keyword": "oily food",
+                    "Context": "Too oily food Food: 1 Service: 2 Atmosphere: 2\n\nFood: 1\nService: 2\nAtmosphere: 2"
+                },
+                {
+                    "Keyword": "cheap taste",
+                    "Context": "If you want good thali with family while visiting, this is not the place you want to go. You can’t eat rice especially because of the cheap or old taste. Recommend not to go for nepali typical tasty thali. Food: 1 Service: 1 Atmosphere: 1\n\nFood: 1\nService: 1\nAtmosphere: 1"
+                },
+                {
+                    "Keyword": "bad food",
+                    "Context": "I had their mutton thali and it was the worst thali I ever had in my life.It was overpriced and the thali had only 3 piece of meat and the quality of the rice was also very bad it was like we were chewing plastic.\n\nReplied to owners reply : first try to be professional you cant say dont come back to customer just because we made you realise how deep is your restaurant. Try to focus on improving, instead of losing a customer. Literally your food sucks. Rice was like a chewing plastic and thats the fact. I guess we expected more from a nepali restaurant. Dont give the bad quality food and spoil the image of Nepali thali for saving few bucks. I suggest you try some nepali food from texas DFW and get inspired. Aba ofcourse khana nai 5-6 chamchi jati diyesi 3-4 choti thapi halxa ni. Good luck never coming again.\n\nRe reply: Nothing to say, afno image ra customer interaction kasto cha vanera afai public platform ma proof garirakhnu vayeko cha. Feri pani not only me jo koi pani ekchoti tya gayesi they never gonna come back dont worry.  With due respect,\nJust wanna say again, please dont ruin the image of Nepali Thali in foreign land to save few bucks 😭 Service Dine in Food: 1 Service: 4 Atmosphere: 3\n\nService: Dine in\nFood: 1\nService: 4\nAtmosphere: 3"
+                },
+                {
+                    "Keyword": "nepali food",
+                    "Context": "I had their mutton thali and it was the worst thali I ever had in my life.It was overpriced and the thali had only 3 piece of meat and the quality of the rice was also very bad it was like we were chewing plastic.\n\nReplied to owners reply : first try to be professional you cant say dont come back to customer just because we made you realise how deep is your restaurant. Try to focus on improving, instead of losing a customer. Literally your food sucks. Rice was like a chewing plastic and thats the fact. I guess we expected more from a nepali restaurant. Dont give the bad quality food and spoil the image of Nepali thali for saving few bucks. I suggest you try some nepali food from texas DFW and get inspired. Aba ofcourse khana nai 5-6 chamchi jati diyesi 3-4 choti thapi halxa ni. Good luck never coming again.\n\nRe reply: Nothing to say, afno image ra customer interaction kasto cha vanera afai public platform ma proof garirakhnu vayeko cha. Feri pani not only me jo koi pani ekchoti tya gayesi they never gonna come back dont worry.  With due respect,\nJust wanna say again, please dont ruin the image of Nepali Thali in foreign land to save few bucks 😭 Service Dine in Food: 1 Service: 4 Atmosphere: 3\n\nService: Dine in\nFood: 1\nService: 4\nAtmosphere: 3"
+                }
+            ],
+            "Neutral": [
+                {
+                    "Keyword": "pokhreli chicken",
+                    "Context": "I ordered momos chowmein pokhreli chicken rice and nepali pickle\nMomo were good there were 6 pieces I wish I could get entree size while online order but its okay  veg chowmein really good we enjoyed\nI ordered rice quantity was really low very sad about it and pokhreli chicken was I don’t know what was it i felt like i m eating tandoori chicken with onion tomato gravy\nAnd nepali pickle - its  canned mix pickle  its not nepali its panchrangi pickle very sad and disappointed Service Delivery Meal type Dinner Price per person $50–100 Food: 3\n\nService: Delivery\nMeal type: Dinner\nPrice per person: $50–100\nFood: 3"
+                }
+            ]
+        },
+        "Price": {
+            "Positive": [
+                {
+                    "Keyword": "better Price",
+                    "Context": "Food was excellent but service could be better Meal type Dinner Price per person $20–30 Food: 5 Service: 2 Atmosphere: 4 Noise level Quiet, easy to talk Group size 3-4 people\n\nMeal type: Dinner\nPrice per person: $20–30\nFood: 5\nService: 2\nAtmosphere: 4\nNoise level: Quiet, easy to talk\nGroup size: 3-4 people"
+                },
+                {
+                    "Keyword": "Suitable Price",
+                    "Context": "Hands down the best Nepali & Indian restaurant in LA!\nI absolutely loved the authentic flavors and delicious food. The warmth and hospitality of the owners made the experience even better-it truly felt like home. Highly recommended for anyone craving real Nepali and Indian taste.\n\nThank you so much! Price per person $20–30 Food: 5 Service: 5 Atmosphere: 5 Recommended dishes Garlic Naan, Great Service, Chicken Biryani, Chicken Thali Group size Suitable for all group sizes Wait time No wait Recommendation for vegetarians Highly recommend Parking space Plenty of parking Parking options Free parking lot Kid-friendliness Yes! Wheelchair accessibility Yes!\n\nPrice per person: $20–30\nFood: 5\nService: 5\nAtmosphere: 5\nRecommended dishes: Garlic Naan, Great Service, Chicken Biryani, Chicken Thali\nGroup size: Suitable for all group sizes\nWait time: No wait\nRecommendation for vegetarians: Highly recommend\nParking space: Plenty of parking\nParking options: Free parking lot\nKid-friendliness: Yes!\nWheelchair accessibility: Yes!"
+                },
+                {
+                    "Keyword": "price is more",
+                    "Context": "Well, Suddenly I went there for the first time. I liked their Momo item. It’s like 7/10.! I I was in rush, That's why didn’t abled to try different Item. Their price is little bit more than others Indian/Restaurants.(Maybe for the place..-IDK).! Good Luck. Service Dine in Meal type Lunch Price per person $10–20 Food: 4 Service: 5 Atmosphere: 5\n\nService: Dine in\nMeal type: Lunch\nPrice per person: $10–20\nFood: 4\nService: 5\nAtmosphere: 5"
+                }
+            ],
+            "Negative": [],
+            "Neutral": []
+        },
+        "Environment": {
+            "Positive": [
+                {
+                    "Keyword": "recommend space",
+                    "Context": "Service: Dine in\nPrice per person: $10–20\nRecommended dishes: Chilli\nReservation: Reservations not required\nRecommendation for vegetarians: Highly recommend\nParking space: Plenty of parking\nParking options: Free parking lot"
+                },
+                {
+                    "Keyword": "Lovely atmosphere",
+                    "Context": "Great staff! Great food! Lovely atmosphere! Looking forward to the next time I am in the area so I can eat here again. Food: 5 Service: 5 Atmosphere: 5\n\nFood: 5\nService: 5\nAtmosphere: 5"
+                },
+                {
+                    "Keyword": "Quiet Atmosphere",
+                    "Context": "Food was excellent but service could be better Meal type Dinner Price per person $20–30 Food: 5 Service: 2 Atmosphere: 4 Noise level Quiet, easy to talk Group size 3-4 people\n\nMeal type: Dinner\nPrice per person: $20–30\nFood: 5\nService: 2\nAtmosphere: 4\nNoise level: Quiet, easy to talk\nGroup size: 3-4 people"
+                },
+                {
+                    "Keyword": "recommend space",
+                    "Context": "Hands down the best Nepali & Indian restaurant in LA!\nI absolutely loved the authentic flavors and delicious food. The warmth and hospitality of the owners made the experience even better-it truly felt like home. Highly recommended for anyone craving real Nepali and Indian taste.\n\nThank you so much! Price per person $20–30 Food: 5 Service: 5 Atmosphere: 5 Recommended dishes Garlic Naan, Great Service, Chicken Biryani, Chicken Thali Group size Suitable for all group sizes Wait time No wait Recommendation for vegetarians Highly recommend Parking space Plenty of parking Parking options Free parking lot Kid-friendliness Yes! Wheelchair accessibility Yes!\n\nPrice per person: $20–30\nFood: 5\nService: 5\nAtmosphere: 5\nRecommended dishes: Garlic Naan, Great Service, Chicken Biryani, Chicken Thali\nGroup size: Suitable for all group sizes\nWait time: No wait\nRecommendation for vegetarians: Highly recommend\nParking space: Plenty of parking\nParking options: Free parking lot\nKid-friendliness: Yes!\nWheelchair accessibility: Yes!"
+                },
+                {
+                    "Keyword": "Quiet Atmosphere",
+                    "Context": "Really wholesome authentic Nepali and Indian food . Service Dine in Food: 5 Service: 5 Atmosphere: 5 Noise level Quiet, easy to talk Recommendation for vegetarians Highly recommend\n\nService: Dine in\nFood: 5\nService: 5\nAtmosphere: 5\nNoise level: Quiet, easy to talk\nRecommendation for vegetarians: Highly recommend"
+                },
+                {
+                    "Keyword": "easy Atmosphere",
+                    "Context": "Really wholesome authentic Nepali and Indian food . Service Dine in Food: 5 Service: 5 Atmosphere: 5 Noise level Quiet, easy to talk Recommendation for vegetarians Highly recommend\n\nService: Dine in\nFood: 5\nService: 5\nAtmosphere: 5\nNoise level: Quiet, easy to talk\nRecommendation for vegetarians: Highly recommend"
+                },
+                {
+                    "Keyword": "sure space",
+                    "Context": "One of the best and most authentic tasting Indian food restaurants around Service Take out Meal type Dinner Price per person $20–30 Food: 5 Service: 5 Atmosphere: 5 Recommended dishes Garlic Naan, Chicken Tikka Vegetarian offerings Not sure Parking space Plenty of parking Parking options Free parking lot, Free street parking\n\nService: Take out\nMeal type: Dinner\nPrice per person: $20–30\nFood: 5\nService: 5\nAtmosphere: 5\nRecommended dishes: Garlic Naan, Chicken Tikka\nVegetarian offerings: Not sure\nParking space: Plenty of parking\nParking options: Free parking lot, Free street parking"
+                },
+                {
+                    "Keyword": "nice atmosphere",
+                    "Context": "I must admit I was biased based on the location but when I walked in and it was a nice cool atmosphere and the food is absolutely amazing Service Dine in Meal type Dinner Food: 5 Service: 4 Atmosphere: 3\n\nService: Dine in\nMeal type: Dinner\nFood: 5\nService: 4\nAtmosphere: 3"
+                },
+                {
+                    "Keyword": "cool atmosphere",
+                    "Context": "I must admit I was biased based on the location but when I walked in and it was a nice cool atmosphere and the food is absolutely amazing Service Dine in Meal type Dinner Food: 5 Service: 4 Atmosphere: 3\n\nService: Dine in\nMeal type: Dinner\nFood: 5\nService: 4\nAtmosphere: 3"
+                },
+                {
+                    "Keyword": "sure space",
+                    "Context": "Service: Dine in\nMeal type: Lunch\nPrice per person: $50–100\nFood: 5\nService: 5\nAtmosphere: 5\nRecommended dishes\nDietary restrictions: Not quite sure\nParking space: Plenty of parking\nParking options: Free parking lot\nParking: Not too much"
+                },
+                {
+                    "Keyword": "difficult space",
+                    "Context": "The best Indian food and love the garlic nann bread and fried dumplings 🥟 I highly recommend this place if you want something different. So yummy 😋 Service Dine in Meal type Dinner Price per person $20–30 Food: 5 Service: 5 Atmosphere: 5 Recommended dishes Vegetable Thali, Garlic Naan Parking space Somewhat difficult to find parking Parking options Free parking lot\n\nService: Dine in\nMeal type: Dinner\nPrice per person: $20–30\nFood: 5\nService: 5\nAtmosphere: 5\nRecommended dishes: Vegetable Thali, Garlic Naan\nParking space: Somewhat difficult to find parking\nParking options: Free parking lot"
+                }
+            ],
+            "Negative": [],
+            "Neutral": []
+        },
+        "Service": {
+            "Positive": [
+                {
+                    "Keyword": "Quiet Service",
+                    "Context": "Delicious food, peaceful ambiance. Price per person $20–30 Food: 5 Service: 5 Noise level Quiet, easy to talk Wait time No wait Seating type Indoor dining area\n\nPrice per person: $20–30\nFood: 5\nService: 5\nNoise level: Quiet, easy to talk\nWait time: No wait\nSeating type: Indoor dining area"
+                },
+                {
+                    "Keyword": "easy Service",
+                    "Context": "Delicious food, peaceful ambiance. Price per person $20–30 Food: 5 Service: 5 Noise level Quiet, easy to talk Wait time No wait Seating type Indoor dining area\n\nPrice per person: $20–30\nFood: 5\nService: 5\nNoise level: Quiet, easy to talk\nWait time: No wait\nSeating type: Indoor dining area"
+                },
+                {
+                    "Keyword": "Great staff",
+                    "Context": "Great staff! Great food! Lovely atmosphere! Looking forward to the next time I am in the area so I can eat here again. Food: 5 Service: 5 Atmosphere: 5\n\nFood: 5\nService: 5\nAtmosphere: 5"
+                },
+                {
+                    "Keyword": "friendly Service",
+                    "Context": "Loved not only the food but also the service! I had to come early & wait for my family, they were very accommodating & made sure I am comfortable. Food (everything I ordered) was tasty, good portion (one item fills you up), reasonably price, prepared pretty quick (within 15 min, meal was served for all 5 people). They went above & beyond to fill our need & served every request with grace. They even offered complimentary rice & salad. Very appreciative of the chef as well as the server. Service Dine in Meal type Dinner Price per person $20–30 Food: 5 Service: 5 Atmosphere: 5 Reservation Reservations not required Vegetarian offerings Vegetarian menu or section Parking space Plenty of parking Parking options Free parking lot Kid-friendliness Kid friendly\n\nService: Dine in\nMeal type: Dinner\nPrice per person: $20–30\nFood: 5\nService: 5\nAtmosphere: 5\nReservation: Reservations not required\nVegetarian offerings: Vegetarian menu or section\nParking space: Plenty of parking\nParking options: Free parking lot\nKid-friendliness: Kid friendly"
+                },
+                {
+                    "Keyword": "exceptional service",
+                    "Context": "Every visit at the Himalayan is a treat, but what truly elevates the experience is the exceptional service—especially from our usual waitress, Anu. She’s consistently warm, attentive, and genuinely makes us feel welcome every time. The food is always top-notch, but it’s the personal touch she brings that keeps us coming back. Highly recommend for both the cuisine and the hospitality! Service Dine in Meal type Dinner Price per person $10–20 Seating type Indoor dining area, Bar area, Outdoor patio / terrace\n\nService: Dine in\nMeal type: Dinner\nPrice per person: $10–20\nSeating type: Indoor dining area, Bar area, Outdoor patio / terrace"
+                },
+                {
+                    "Keyword": "usual waitress",
+                    "Context": "Every visit at the Himalayan is a treat, but what truly elevates the experience is the exceptional service—especially from our usual waitress, Anu. She’s consistently warm, attentive, and genuinely makes us feel welcome every time. The food is always top-notch, but it’s the personal touch she brings that keeps us coming back. Highly recommend for both the cuisine and the hospitality! Service Dine in Meal type Dinner Price per person $10–20 Seating type Indoor dining area, Bar area, Outdoor patio / terrace\n\nService: Dine in\nMeal type: Dinner\nPrice per person: $10–20\nSeating type: Indoor dining area, Bar area, Outdoor patio / terrace"
+                },
+                {
+                    "Keyword": "recommend Service",
+                    "Context": "Really wholesome authentic Nepali and Indian food . Service Dine in Food: 5 Service: 5 Atmosphere: 5 Noise level Quiet, easy to talk Recommendation for vegetarians Highly recommend\n\nService: Dine in\nFood: 5\nService: 5\nAtmosphere: 5\nNoise level: Quiet, easy to talk\nRecommendation for vegetarians: Highly recommend"
+                },
+                {
+                    "Keyword": "Great service",
+                    "Context": "Great food great service. Also, it is all halal! Food: 5 Service: 5 Atmosphere: 4\n\nFood: 5\nService: 5\nAtmosphere: 4"
+                },
+                {
+                    "Keyword": "great service",
+                    "Context": "Great food great service. Also, it is all halal! Food: 5 Service: 5 Atmosphere: 4\n\nFood: 5\nService: 5\nAtmosphere: 4"
+                },
+                {
+                    "Keyword": "staff is friendly",
+                    "Context": "This restaurant is great, with a diverse menu and delicious dishes that suit every taste. The food is carefully prepared and flavorful. The staff is friendly and polite, always ready to assist.\nPerfect for meals with family and friends. I'm very satisfied and will definitely return. Service Dine in Meal type Breakfast Price per person $10–20 Food: 5 Service: 5 Atmosphere: 4\n\nService: Dine in\nMeal type: Breakfast\nPrice per person: $10–20\nFood: 5\nService: 5\nAtmosphere: 4"
+                },
+                {
+                    "Keyword": "staff is ready",
+                    "Context": "This restaurant is great, with a diverse menu and delicious dishes that suit every taste. The food is carefully prepared and flavorful. The staff is friendly and polite, always ready to assist.\nPerfect for meals with family and friends. I'm very satisfied and will definitely return. Service Dine in Meal type Breakfast Price per person $10–20 Food: 5 Service: 5 Atmosphere: 4\n\nService: Dine in\nMeal type: Breakfast\nPrice per person: $10–20\nFood: 5\nService: 5\nAtmosphere: 4"
+                },
+                {
+                    "Keyword": "much staff",
+                    "Context": "I came across it yesterday for the first time, and overall the food was so neat and delicious. The dumplings you recommended were also delicious. The kindness of the staff made me really happy. It's hard to find good restaurants in LA, but I'll go here often. I'll be there next week as well. Thank you so much staff! Food: 5 Service: 5 Atmosphere: 5\n\nFood: 5\nService: 5\nAtmosphere: 5"
+                },
+                {
+                    "Keyword": "Staff is kind",
+                    "Context": "went for the first time after being a long time ago in Nepal and felt good. Momo, the reason I came for been absolutely delicious and we had most likely the best cheese naan I ever had and a lamb khorma on top. All very tasty and prices are like everywhere. Staff is kind and helpful. recommended to give it a try if you haven’t tasted the food or been to the country before. Service Dine in Meal type Dinner Price per person $20–30 Food: 5 Service: 5 Atmosphere: 5 Recommended dishes Cheese Naan, Garlic Naan\n\nService: Dine in\nMeal type: Dinner\nPrice per person: $20–30\nFood: 5\nService: 5\nAtmosphere: 5\nRecommended dishes: Cheese Naan, Garlic Naan"
+                },
+                {
+                    "Keyword": "clean service",
+                    "Context": "I absolutely love this place!! Best Tikka Masala and Cheese/ Garlic Naan! Super yummy! Very clean and friendly service! Always feel so welcome and calm when eating here! Love grabbing food here for carry-out and it’s nicely packaged! I always need to stop by when I’m in the area! Service Dine in Meal type Dinner Price per person $20–30 Food: 5 Service: 5 Atmosphere: 5 Recommended dishes Garlic Naan, Vegetable Thali\n\nService: Dine in\nMeal type: Dinner\nPrice per person: $20–30\nFood: 5\nService: 5\nAtmosphere: 5\nRecommended dishes: Garlic Naan, Vegetable Thali"
+                },
+                {
+                    "Keyword": "service is quick",
+                    "Context": "This is my favorite indian cuisine restaurant in LA. The paneer butter masala is so yummy with the garlic naan. I try to come here once a month and pretty much order the same item. The service is pretty quick too so can't complain at all. Food: 5 Service: 5 Atmosphere: 5\n\nFood: 5\nService: 5\nAtmosphere: 5"
+                },
+                {
+                    "Keyword": "Great service",
+                    "Context": "Great service with delicious food..Server  Abishek  is really nice..and done excellent service.. We love the way of serving food ..with alot of parking space too .. Service Dine in Food: 5 Service: 5 Atmosphere: 5\n\nService: Dine in\nFood: 5\nService: 5\nAtmosphere: 5"
+                },
+                {
+                    "Keyword": "excellent service",
+                    "Context": "Great service with delicious food..Server  Abishek  is really nice..and done excellent service.. We love the way of serving food ..with alot of parking space too .. Service Dine in Food: 5 Service: 5 Atmosphere: 5\n\nService: Dine in\nFood: 5\nService: 5\nAtmosphere: 5"
+                },
+                {
+                    "Keyword": "service is great",
+                    "Context": "Great, tasty Indian/Nepalese food. We ordered the chicken fried rice, chicken tikka masala, and garlic naan - they were all scrumptious and hit the spot. I asked for medium level spiciness and they nailed it. The garlic naan is made in house, from scratch and it was the most delicious garlic naan (or any naan for that matter) I've ever had. The service is great too. I wish they'd get more customers because they deserve it. Service Dine in Meal type Lunch Price per person $20–30 Food: 5 Service: 5 Atmosphere: 5 Recommended dishes Garlic Naan, Chicken Tikka\n\nService: Dine in\nMeal type: Lunch\nPrice per person: $20–30\nFood: 5\nService: 5\nAtmosphere: 5\nRecommended dishes: Garlic Naan, Chicken Tikka"
+                },
+                {
+                    "Keyword": "staff are friendly",
+                    "Context": "Forget anything you know about food and come to this place RIGHT NOW. I just had an amazing meal for lunch. Nepali pasta, simply unique. Never had anything like it. You must not like food if you don’t try this.\n\nThe place is also very welcoming and the staff are friendly.\n\nJust a great experience overall! Food: 5 Service: 5 Atmosphere: 5\n\nFood: 5\nService: 5\nAtmosphere: 5"
+                },
+                {
+                    "Keyword": "Service be busy",
+                    "Context": "Have taken chicken tikka masala thali no spicy and still curry. Excellent taste! Butter-creamy with fresh chicken breast pieces. Rice was cooked also excellent. I’d consider my portion as small then I expected, but the server gave me extra rice as a compliment. Will get back for trying something else. Service Dine in Meal type Lunch Price per person $10–20 Food: 5 Service: 5 Atmosphere: 4 Recommended dishes Vegetable Thali Parking Parking during the weekend might be busy.\n\nService: Dine in\nMeal type: Lunch\nPrice per person: $10–20\nFood: 5\nService: 5\nAtmosphere: 4\nRecommended dishes: Vegetable Thali\nParking: Parking during the weekend might be busy."
+                }
+            ],
+            "Negative": [
+                {
+                    "Keyword": "service was disappointing",
+                    "Context": "The food was good and fresh, but the service was disappointing. When we asked for a box to pack our leftovers, we were only given aluminum foil instead. This made us feel disrespected, and we had to leave the food behind. Service Dine in Meal type Dinner Price per person $50–100 Food: 5 Service: 1 Atmosphere: 3\n\nService: Dine in\nMeal type: Dinner\nPrice per person: $50–100\nFood: 5\nService: 1\nAtmosphere: 3"
+                },
+                {
+                    "Keyword": "Slow service",
+                    "Context": "Disappointing Experience at Himalayan House\n\nFood Quality\n- Ordered Chicken Karahi, but it had a bad smell, making it unpleasant to eat.\n- Requested green chili, but was given only a tiny quarter-sized piece after a long wait.\n\nCustomer Service\n- The employee's attitude was unprofessional, creating a poor impression.\n- Slow service and lack of attention to customer requests.\n\nGuest Experience\n- Brought my guest expecting a good meal, but one of them experienced vomiting afterward.\n- Felt mistreated, especially as someone from India/Nepal, making the visit uncomfortable.\n\nFinal Verdict\nBased on this visit, I **do not recommend** this restaurant, especially for South Asian guests, as the overall experience was disappointing. Service Dine in Price per person $30–50 Food: 1 Service: 1 Atmosphere: 1 Wait time 10-30 min\n\nService: Dine in\nPrice per person: $30–50\nFood: 1\nService: 1\nAtmosphere: 1\nWait time: 10-30 min"
+                }
+            ],
+            "Neutral": []
+        },
+        "Waiting Time": {
+            "Positive": [
+                {
+                    "Keyword": "next time",
+                    "Context": "Great staff! Great food! Lovely atmosphere! Looking forward to the next time I am in the area so I can eat here again. Food: 5 Service: 5 Atmosphere: 5\n\nFood: 5\nService: 5\nAtmosphere: 5"
+                },
+                {
+                    "Keyword": "quiet time",
+                    "Context": "Price per person: $20–30\nFood: 5\nService: 5\nAtmosphere: 5\nNoise level: Very quiet\nWait time: 1+ hour\nSeating type: Indoor dining area\nRecommendation for vegetarians: Highly recommend"
+                },
+                {
+                    "Keyword": "sure time",
+                    "Context": "Meal type: Dinner\nPrice per person: $20–30\nFood: 5\nService: 5\nAtmosphere: 5\nGroup size: Not sure\nWait time: No wait"
+                },
+                {
+                    "Keyword": "first time",
+                    "Context": "I came across it yesterday for the first time, and overall the food was so neat and delicious. The dumplings you recommended were also delicious. The kindness of the staff made me really happy. It's hard to find good restaurants in LA, but I'll go here often. I'll be there next week as well. Thank you so much staff! Food: 5 Service: 5 Atmosphere: 5\n\nFood: 5\nService: 5\nAtmosphere: 5"
+                },
+                {
+                    "Keyword": "first time",
+                    "Context": "went for the first time after being a long time ago in Nepal and felt good. Momo, the reason I came for been absolutely delicious and we had most likely the best cheese naan I ever had and a lamb khorma on top. All very tasty and prices are like everywhere. Staff is kind and helpful. recommended to give it a try if you haven’t tasted the food or been to the country before. Service Dine in Meal type Dinner Price per person $20–30 Food: 5 Service: 5 Atmosphere: 5 Recommended dishes Cheese Naan, Garlic Naan\n\nService: Dine in\nMeal type: Dinner\nPrice per person: $20–30\nFood: 5\nService: 5\nAtmosphere: 5\nRecommended dishes: Cheese Naan, Garlic Naan"
+                },
+                {
+                    "Keyword": "long time",
+                    "Context": "went for the first time after being a long time ago in Nepal and felt good. Momo, the reason I came for been absolutely delicious and we had most likely the best cheese naan I ever had and a lamb khorma on top. All very tasty and prices are like everywhere. Staff is kind and helpful. recommended to give it a try if you haven’t tasted the food or been to the country before. Service Dine in Meal type Dinner Price per person $20–30 Food: 5 Service: 5 Atmosphere: 5 Recommended dishes Cheese Naan, Garlic Naan\n\nService: Dine in\nMeal type: Dinner\nPrice per person: $20–30\nFood: 5\nService: 5\nAtmosphere: 5\nRecommended dishes: Cheese Naan, Garlic Naan"
+                },
+                {
+                    "Keyword": "first time",
+                    "Context": "Well, Suddenly I went there for the first time. I liked their Momo item. It’s like 7/10.! I I was in rush, That's why didn’t abled to try different Item. Their price is little bit more than others Indian/Restaurants.(Maybe for the place..-IDK).! Good Luck. Service Dine in Meal type Lunch Price per person $10–20 Food: 4 Service: 5 Atmosphere: 5\n\nService: Dine in\nMeal type: Lunch\nPrice per person: $10–20\nFood: 4\nService: 5\nAtmosphere: 5"
+                }
+            ],
+            "Negative": [
+                {
+                    "Keyword": "long time",
+                    "Context": "I can’t believe this happened to me.\nBig NO, Bad place if you thinking to come and Test the Food. Bad Experience even I know them all since long time. Sorry to say not you don’t deserve at all. Food: 1 Service: 1 Atmosphere: 1\n\nFood: 1\nService: 1\nAtmosphere: 1"
+                },
+                {
+                    "Keyword": "long wait",
+                    "Context": "Disappointing Experience at Himalayan House\n\nFood Quality\n- Ordered Chicken Karahi, but it had a bad smell, making it unpleasant to eat.\n- Requested green chili, but was given only a tiny quarter-sized piece after a long wait.\n\nCustomer Service\n- The employee's attitude was unprofessional, creating a poor impression.\n- Slow service and lack of attention to customer requests.\n\nGuest Experience\n- Brought my guest expecting a good meal, but one of them experienced vomiting afterward.\n- Felt mistreated, especially as someone from India/Nepal, making the visit uncomfortable.\n\nFinal Verdict\nBased on this visit, I **do not recommend** this restaurant, especially for South Asian guests, as the overall experience was disappointing. Service Dine in Price per person $30–50 Food: 1 Service: 1 Atmosphere: 1 Wait time 10-30 min\n\nService: Dine in\nPrice per person: $30–50\nFood: 1\nService: 1\nAtmosphere: 1\nWait time: 10-30 min"
+                }
+            ],
+            "Neutral": [
+                {
+                    "Keyword": "first time",
+                    "Context": "The first time I came, pre Covid-19, it was Indian owned, everyone was very welcoming and friendly, and the food tasted authenticly Indian.  It was so great and flavorful!\n\nThis time, it was very clearly not Indian owned.  The food and the service was alright but, this was my second time here and the feel and experience was completely different.  Nothing like before!\n\nIf I do return, it would be solely based on location and convenience. Service Dine in Price per person $10–20 Food: 3 Service: 3 Atmosphere: 3 Wait time No wait\n\nService: Dine in\nPrice per person: $10–20\nFood: 3\nService: 3\nAtmosphere: 3\nWait time: No wait"
+                },
+                {
+                    "Keyword": "second time",
+                    "Context": "The first time I came, pre Covid-19, it was Indian owned, everyone was very welcoming and friendly, and the food tasted authenticly Indian.  It was so great and flavorful!\n\nThis time, it was very clearly not Indian owned.  The food and the service was alright but, this was my second time here and the feel and experience was completely different.  Nothing like before!\n\nIf I do return, it would be solely based on location and convenience. Service Dine in Price per person $10–20 Food: 3 Service: 3 Atmosphere: 3 Wait time No wait\n\nService: Dine in\nPrice per person: $10–20\nFood: 3\nService: 3\nAtmosphere: 3\nWait time: No wait"
+                }
+            ]
+        }
+    }
+}
